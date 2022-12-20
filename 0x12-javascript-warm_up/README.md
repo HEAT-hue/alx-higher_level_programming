@@ -1,1 +1,1 @@
-"This directory contains code for different JS challenges"
+# Solution to tasks on JavaScript - Warm up
